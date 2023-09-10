@@ -4,7 +4,7 @@ Order-summary-component-front-end-mentor-newbie-4
 
 ## Demo:
 
-
+https://bahaashk.github.io/FrontEnd-mentor-challenge-2/
 
 ## Features:
 
